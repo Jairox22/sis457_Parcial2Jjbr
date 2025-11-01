@@ -1,0 +1,4 @@
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CpParcial2Jjbr\obj\Debug\CpParcial2Jjbr.csproj.AssemblyReference.cache
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CpParcial2Jjbr\obj\Debug\CpParcial2Jjbr.Properties.Resources.resources
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CpParcial2Jjbr\obj\Debug\CpParcial2Jjbr.csproj.GenerateResource.cache
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CpParcial2Jjbr\obj\Debug\CpParcial2Jjbr.csproj.CoreCompileInputs.cache

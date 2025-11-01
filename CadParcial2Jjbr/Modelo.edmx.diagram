@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3d00ced6a3414fe484fc6855bd523766" Name="Diagram1">
+        <EntityTypeShape EntityType="Parcial2JjbrModel.Canal" Width="1.5" PointX="0.75" PointY="1.375" />
+        <EntityTypeShape EntityType="Parcial2JjbrModel.Programa" Width="1.5" PointX="3" PointY="1" />
+        <AssociationConnector Association="Parcial2JjbrModel.FK_Programa_Canal" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

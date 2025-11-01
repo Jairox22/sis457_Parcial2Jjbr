@@ -1,0 +1,12 @@
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\CadParcial2Jjbr.dll.config
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\CadParcial2Jjbr.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\CadParcial2Jjbr.pdb
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\EntityFramework.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\EntityFramework.xml
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\obj\Debug\CadParcial2Jjbr.csproj.AssemblyReference.cache
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\obj\Debug\CadParcial2Jjbr.csproj.CoreCompileInputs.cache
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\obj\Debug\CadParci.EC107013.Up2Date
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\obj\Debug\CadParcial2Jjbr.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\CadParcial2Jjbr\obj\Debug\CadParcial2Jjbr.pdb

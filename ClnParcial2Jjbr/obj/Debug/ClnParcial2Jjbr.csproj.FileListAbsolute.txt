@@ -1,0 +1,2 @@
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParcial2Jjbr.csproj.AssemblyReference.cache
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParcial2Jjbr.csproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Parcial2JjbrModelStoreContainer" CdmEntityContainer="Parcial2JjbrEntities">
+    <EntitySetMapping Name="Canal">
+      <EntityTypeMapping TypeName="Parcial2JjbrModel.Canal">
+        <MappingFragment StoreEntitySet="Canal">
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="frecuencia" ColumnName="frecuencia" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Programa">
+      <EntityTypeMapping TypeName="Parcial2JjbrModel.Programa">
+        <MappingFragment StoreEntitySet="Programa">
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="fechaEstreno" ColumnName="fechaEstreno" />
+          <ScalarProperty Name="productor" ColumnName="productor" />
+          <ScalarProperty Name="duracion" ColumnName="duracion" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="idCanal" ColumnName="idCanal" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
