@@ -1,9 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
   <EntityContainerMapping StorageEntityContainer="Parcial2JjbrModelStoreContainer" CdmEntityContainer="Parcial2JjbrEntities">
+    <FunctionImportMapping FunctionImportName="paProgramaListar" FunctionName="Parcial2JjbrModel.Store.paProgramaListar">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Parcial2JjbrModel.paProgramaListar_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="idCanal" ColumnName="idCanal" />
+          <ScalarProperty Name="nombreCanal" ColumnName="nombreCanal" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="duracion" ColumnName="duracion" />
+          <ScalarProperty Name="productor" ColumnName="productor" />
+          <ScalarProperty Name="fechaEstreno" ColumnName="fechaEstreno" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="estadoRegistro" ColumnName="estadoRegistro" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
     <EntitySetMapping Name="Canal">
       <EntityTypeMapping TypeName="Parcial2JjbrModel.Canal">
         <MappingFragment StoreEntitySet="Canal">
+          <ScalarProperty Name="estadoRegistro" ColumnName="estadoRegistro" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="usuarioRegistro" ColumnName="usuarioRegistro" />
           <ScalarProperty Name="estado" ColumnName="estado" />
           <ScalarProperty Name="frecuencia" ColumnName="frecuencia" />
           <ScalarProperty Name="nombre" ColumnName="nombre" />
@@ -14,6 +35,7 @@
     <EntitySetMapping Name="Programa">
       <EntityTypeMapping TypeName="Parcial2JjbrModel.Programa">
         <MappingFragment StoreEntitySet="Programa">
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
           <ScalarProperty Name="estado" ColumnName="estado" />
           <ScalarProperty Name="fechaEstreno" ColumnName="fechaEstreno" />
           <ScalarProperty Name="productor" ColumnName="productor" />

@@ -23,7 +23,10 @@ namespace CadParcial2Jjbr
         public int id { get; set; }
         public string nombre { get; set; }
         public string frecuencia { get; set; }
-        public short estado { get; set; }
+        public Nullable<short> estado { get; set; }
+        public string usuarioRegistro { get; set; }
+        public System.DateTime fechaRegistro { get; set; }
+        public short estadoRegistro { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Programa> Programa { get; set; }

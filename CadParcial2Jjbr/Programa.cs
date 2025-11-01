@@ -18,10 +18,11 @@ namespace CadParcial2Jjbr
         public int idCanal { get; set; }
         public string titulo { get; set; }
         public string descripcion { get; set; }
-        public int duracion { get; set; }
+        public Nullable<int> duracion { get; set; }
         public string productor { get; set; }
-        public System.DateTime fechaEstreno { get; set; }
-        public short estado { get; set; }
+        public Nullable<System.DateTime> fechaEstreno { get; set; }
+        public Nullable<short> estado { get; set; }
+        public string tipo { get; set; }
     
         public virtual Canal Canal { get; set; }
     }

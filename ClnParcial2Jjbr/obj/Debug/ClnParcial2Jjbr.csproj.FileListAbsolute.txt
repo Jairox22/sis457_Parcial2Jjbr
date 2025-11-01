@@ -1,2 +1,15 @@
 C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParcial2Jjbr.csproj.AssemblyReference.cache
 C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParcial2Jjbr.csproj.CoreCompileInputs.cache
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\ClnParcial2Jjbr.dll.config
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\ClnParcial2Jjbr.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\ClnParcial2Jjbr.pdb
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\CadParcial2Jjbr.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\EntityFramework.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\CadParcial2Jjbr.pdb
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\CadParcial2Jjbr.dll.config
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\EntityFramework.xml
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParci.89D6D380.Up2Date
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParcial2Jjbr.dll
+C:\Users\JAIRO\Desktop\Parcial2Jjbr\ClnParcial2Jjbr\obj\Debug\ClnParcial2Jjbr.pdb
